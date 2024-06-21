@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "moment": "^2.30.1",
+    "pandas-js": "^0.2.4",
+    "papaparse": "^5.4.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "fuzzy-octo-invention",
+  "version": "1.0.0",
+  "description": "Version JS du converteur EA -> NSG",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
